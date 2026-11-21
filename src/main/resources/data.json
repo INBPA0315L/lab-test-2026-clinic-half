@@ -1,0 +1,22 @@
+[
+  {"name": "Dr. Agnes Varro", "department": "Cardiology", "experience": 22, "room": "A-101", "onCall": true,
+   "patients": [{"insuranceNumber": 100200301, "name": "Laszlo Bartos", "age": 67}, {"insuranceNumber": 100200302, "name": "Maria Csonka", "age": 58}]},
+  {"name": "Dr. Balint Kerekes", "department": "Neurology", "experience": 15, "room": "B-204", "onCall": false,
+   "patients": [{"insuranceNumber": 100200303, "name": "Norbert Dobos", "age": 44}, {"insuranceNumber": 100200304, "name": "Orsolya Eros", "age": 39}, {"insuranceNumber": 100200305, "name": "Peter Fodor", "age": 71}]},
+  {"name": "Dr. Cecilia Halasz", "department": "Pediatrics", "experience": 9, "room": "C-012", "onCall": true,
+   "patients": [{"insuranceNumber": 100200306, "name": "Reka Gal", "age": 7}, {"insuranceNumber": 100200307, "name": "Sandor Hegedus", "age": 11}, {"insuranceNumber": 100200308, "name": "Timea Illes", "age": 4}, {"insuranceNumber": 100200309, "name": "Zsolt Jakab", "age": 15}]},
+  {"name": "Dr. Denes Juhasz", "department": "Orthopedics", "experience": 27, "room": "D-110", "onCall": false,
+   "patients": [{"insuranceNumber": 100200310, "name": "Viktor Katona", "age": 52}]},
+  {"name": "Dr. Emese Kun", "department": "Dermatology", "experience": 6, "room": "E-008", "onCall": false,
+   "patients": []},
+  {"name": "Dr. Ferenc Lengyel", "department": "Cardiology", "experience": 31, "room": "A-105", "onCall": false,
+   "patients": [{"insuranceNumber": 100200311, "name": "Zita Madar", "age": 63}, {"insuranceNumber": 100200301, "name": "Laszlo Bartos", "age": 67}]},
+  {"name": "Dr. Gizella Medve", "department": "Neurology", "experience": 12, "room": "B-210", "onCall": true,
+   "patients": [{"insuranceNumber": 100200312, "name": "Adrienn Nemeth", "age": 35}]},
+  {"name": "Dr. Henrik Novak", "department": "Pediatrics", "experience": 18, "room": "C-020", "onCall": false,
+   "patients": [{"insuranceNumber": 100200313, "name": "Bence Olah", "age": 9}, {"insuranceNumber": 100200314, "name": "Dalma Pinter", "age": 13}]},
+  {"name": "Dr. Ilona Rozsa", "department": "Orthopedics", "experience": 9, "room": "D-115", "onCall": true,
+   "patients": [{"insuranceNumber": 100200315, "name": "Gergo Sipos", "age": 28}, {"insuranceNumber": 100200316, "name": "Hajnalka Szucs", "age": 47}, {"insuranceNumber": 100200310, "name": "Viktor Katona", "age": 52}]},
+  {"name": "Dr. Janos Takacs", "department": "Dermatology", "experience": 14, "room": "E-011", "onCall": false,
+   "patients": [{"insuranceNumber": 100200317, "name": "Ildiko Urban", "age": 33}]}
+]
